@@ -1,4 +1,4 @@
-package br.com.giulianabezerra.messagingspringboot;
+package br.com.kemoel.messagingspringboot;
 
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;

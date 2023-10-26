@@ -9,7 +9,7 @@
 		<version>3.1.1</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.giulianabezerra</groupId>
+	<groupId>br.com.kemoel</groupId>
 	<artifactId>messaging-springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>messaging-springboot</name>

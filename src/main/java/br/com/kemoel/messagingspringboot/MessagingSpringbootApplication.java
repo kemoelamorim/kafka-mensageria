@@ -1,4 +1,4 @@
-package br.com.giulianabezerra.messagingspringboot;
+package br.com.kemoel.messagingspringboot;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
