@@ -40,5 +40,5 @@ OK
 
 - Visualizar mensagem recebida no log:
 ```
-Consumer Message: Olá, giu
+Consumer Message: Olá, kemoel
 ```
